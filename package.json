@@ -1,0 +1,27 @@
+{
+  "name": "discord-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "JusTriple",
+  "license": "ISC",
+  "dependencies": {
+    "3": "^2.1.0",
+    "better": "^0.1.0",
+    "cheerio": "^1.0.0-rc.3",
+    "db": "^3.3.0",
+    "discord-tictactoe": "^2.0.5",
+    "discord.js": "^12.3.1",
+    "docker": "^1.0.0",
+    "fs": "0.0.1-security",
+    "functions": "^1.0.9",
+    "https": "^1.0.0",
+    "ms": "^2.1.2",
+    "quick.db": "^7.1.3",
+    "request": "^2.88.2",
+    "sqlite": "^4.0.18"
+  }
+}
